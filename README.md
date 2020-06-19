@@ -1,4 +1,6 @@
-# dotfiles
+<div align="center">
+  <h1>🍵</h1>
+</div>
 
 ## Shell
 ### [Homebrew](https://brew.sh/)
@@ -117,7 +119,7 @@ composer global require laravel/valet
 valet install
 ```
 
-### Apps
+## Apps
 - [Visual Studio Code](https://code.visualstudio.com)
 - [iTerm2](https://www.iterm2.com)
 - [滴答清单](https://dida365.com/)
